@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#nav{
+    height: 120px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    padding: 20px 130px;
+    gap: 40px;
+    align-items: center;
+    position: fixed;
+}
+#nav img{
+    height: 65px;
+}
+#nav h4{
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+video{
+    height: 100%;
+    width: 100%;
+}

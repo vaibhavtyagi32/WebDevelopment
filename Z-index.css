@@ -1,0 +1,27 @@
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+h1{
+    color: salmon;
+}
+#one{
+    height: 150px;
+    width: 150px;
+    background-color: greenyellow;
+    position: relative;
+    z-index: 2;
+}
+#two{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    position: relative;
+    bottom: 50px;
+}
+#three{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+}

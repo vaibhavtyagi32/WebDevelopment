@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#main {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    /* background-color: yellow; */
+    border: 5px solid black;
+    margin: 0px 0px 0px 400px;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    margin: 50px 0px 0px 500px;
+}
+
+button:hover {
+    background-color: aqua;
+    color: black;
+}
+
+#bg {
+    height: 100%;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1711635583169-faa3b29c3571?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: center;
+}

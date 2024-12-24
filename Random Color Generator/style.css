@@ -1,0 +1,16 @@
+div{
+    height: 150px;
+    width: 500px;
+    border: 2px solid black;
+    margin: auto;
+}
+body{
+    text-align: center;
+}
+h3{
+    font-size: 40px;
+}
+button{
+    height: 30px;
+    width: 150px;
+}

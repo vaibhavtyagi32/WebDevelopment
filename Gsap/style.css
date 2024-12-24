@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+/* #box1{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color:lightgreen
+} */
+
+/* #box{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+}
+h1{
+    padding-left: 400px;
+    padding-top: 150px;
+} */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+}
+#part2{
+    display: flex;
+    gap: 50px;
+}

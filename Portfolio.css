@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+    width: 100%;
+}
+.background{
+    background-image: url("photo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+header{
+    text-align: center;
+}
+header h1,p{
+    color: white;
+}
+section h2,b,li{
+    color: white;
+}
+footer h2,b,h3{
+    color: white;
+}

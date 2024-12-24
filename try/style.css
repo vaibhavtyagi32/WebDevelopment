@@ -1,0 +1,12 @@
+#main{
+    height: 200px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+}
+body{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+}
